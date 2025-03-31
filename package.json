@@ -1,0 +1,30 @@
+{
+  "name": "projetopresenca",
+  "version": "1.0.0",
+  "description": "Projeto criado para controle de presença dos alunos da instituição em eventos e aulas.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Marcopazz02/ProjetoPresenca.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Marcopazz02/ProjetoPresenca/issues"
+  },
+  "homepage": "https://github.com/Marcopazz02/ProjetoPresenca#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "mongoose": "^8.13.1"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.1",
+    "@types/node": "^22.13.14",
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^5.8.2"
+  }
+}
